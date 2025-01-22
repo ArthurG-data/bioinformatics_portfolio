@@ -1,3 +1,7 @@
+<p>
+  <img src="assets/img/banner.webp" alias="banner logo">
+</p>
+
 # **Bioinformatics Portfolio** 🧬
 
 Welcome to my **Bioinformatics Portfolio**, where I showcase various projects exploring key computational techniques in genomics and biological data analysis. Each project is implemented using **Python** and leverages widely used bioinformatics tools and libraries to address real-world problems in the field.  
